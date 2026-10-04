@@ -28,3 +28,8 @@ To run the project in your system, type command in your command prompt or termin
     <img src="screenshots/Capture.PNG"/>
 </p>
        
+## Author Information
+-**Name:** Aryan Rathi
+- **Branch:** B. Tech CSE (AI & ML)
+- **CU ID:** CU26220292
+- **University:** COER University
